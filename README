@@ -1,0 +1,6 @@
+This program compile in linux: the gcc version is 4.6.5.
+In program, I use "gps_vector" and "info_vector" to simulate two file.
+Breaking "gps_vector" into "gps_vector_a" and "gps_vector_b".
+Breaking "info_vector" into "info_vector_a" and "info_vector_a".
+Merging "gps_vector_a" and "info_vector_a" into "node_vector".
+Merging "gps_vector_b" and "info_vector_b" into "node_vector".
